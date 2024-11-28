@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\albin\\OneDrive\\\u00C1rea de Trabalho\\ManagmentSystem - C\u00F3pia\\EmployeManagmentSystem_Demon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94E71B9D-5DDA-4201-A5F8-E9C952B045D0}|Client\\Client.csproj|c:\\users\\albin\\onedrive\\\u00E1rea de trabalho\\managmentsystem - c\u00F3pia\\employemanagmentsystem_demon\\client\\pages\\otherpages\\vacationpages\\vacationdialog.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94E71B9D-5DDA-4201-A5F8-E9C952B045D0}|Client\\Client.csproj|solutionrelative:client\\pages\\otherpages\\vacationpages\\vacationdialog.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E71B9D-5DDA-4201-A5F8-E9C952B045D0}|Client\\Client.csproj|c:\\users\\albin\\onedrive\\\u00E1rea de trabalho\\managmentsystem - c\u00F3pia\\employemanagmentsystem_demon\\client\\pages\\otherpages\\healthpages\\doctordialog.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94E71B9D-5DDA-4201-A5F8-E9C952B045D0}|Client\\Client.csproj|solutionrelative:client\\pages\\otherpages\\healthpages\\doctordialog.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E71B9D-5DDA-4201-A5F8-E9C952B045D0}|Client\\Client.csproj|c:\\users\\albin\\onedrive\\\u00E1rea de trabalho\\managmentsystem - c\u00F3pia\\employemanagmentsystem_demon\\client\\pages\\otherpages\\overtimepages\\overtimedialog.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94E71B9D-5DDA-4201-A5F8-E9C952B045D0}|Client\\Client.csproj|solutionrelative:client\\pages\\otherpages\\overtimepages\\overtimedialog.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E71B9D-5DDA-4201-A5F8-E9C952B045D0}|Client\\Client.csproj|c:\\users\\albin\\onedrive\\\u00E1rea de trabalho\\managmentsystem - c\u00F3pia\\employemanagmentsystem_demon\\client\\pages\\otherpages\\vacationpages\\vacationpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94E71B9D-5DDA-4201-A5F8-E9C952B045D0}|Client\\Client.csproj|solutionrelative:client\\pages\\otherpages\\vacationpages\\vacationpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D07E833-9901-48EC-A4DA-E7DBFAE7F706}|Server\\Server.csproj|c:\\users\\albin\\onedrive\\\u00E1rea de trabalho\\managmentsystem - c\u00F3pia\\employemanagmentsystem_demon\\server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6D07E833-9901-48EC-A4DA-E7DBFAE7F706}|Server\\Server.csproj|solutionrelative:server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DoctorDialog.razor",
+              "DocumentMoniker": "C:\\Users\\albin\\OneDrive\\\u00C1rea de Trabalho\\ManagmentSystem - C\u00F3pia\\EmployeManagmentSystem_Demon\\Client\\Pages\\OtherPages\\HealthPages\\DoctorDialog.razor",
+              "RelativeDocumentMoniker": "Client\\Pages\\OtherPages\\HealthPages\\DoctorDialog.razor",
+              "ToolTip": "C:\\Users\\albin\\OneDrive\\\u00C1rea de Trabalho\\ManagmentSystem - C\u00F3pia\\EmployeManagmentSystem_Demon\\Client\\Pages\\OtherPages\\HealthPages\\DoctorDialog.razor",
+              "RelativeToolTip": "Client\\Pages\\OtherPages\\HealthPages\\DoctorDialog.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T00:41:16.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OvertimeDialog.razor",
+              "DocumentMoniker": "C:\\Users\\albin\\OneDrive\\\u00C1rea de Trabalho\\ManagmentSystem - C\u00F3pia\\EmployeManagmentSystem_Demon\\Client\\Pages\\OtherPages\\OvertimePages\\OvertimeDialog.razor",
+              "RelativeDocumentMoniker": "Client\\Pages\\OtherPages\\OvertimePages\\OvertimeDialog.razor",
+              "ToolTip": "C:\\Users\\albin\\OneDrive\\\u00C1rea de Trabalho\\ManagmentSystem - C\u00F3pia\\EmployeManagmentSystem_Demon\\Client\\Pages\\OtherPages\\OvertimePages\\OvertimeDialog.razor",
+              "RelativeToolTip": "Client\\Pages\\OtherPages\\OvertimePages\\OvertimeDialog.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAACBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T00:41:03.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VacationPage.razor",
+              "DocumentMoniker": "C:\\Users\\albin\\OneDrive\\\u00C1rea de Trabalho\\ManagmentSystem - C\u00F3pia\\EmployeManagmentSystem_Demon\\Client\\Pages\\OtherPages\\VacationPages\\VacationPage.razor",
+              "RelativeDocumentMoniker": "Client\\Pages\\OtherPages\\VacationPages\\VacationPage.razor",
+              "ToolTip": "C:\\Users\\albin\\OneDrive\\\u00C1rea de Trabalho\\ManagmentSystem - C\u00F3pia\\EmployeManagmentSystem_Demon\\Client\\Pages\\OtherPages\\VacationPages\\VacationPage.razor",
+              "RelativeToolTip": "Client\\Pages\\OtherPages\\VacationPages\\VacationPage.razor",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T00:33:22.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VacationDialog.razor",
+              "DocumentMoniker": "C:\\Users\\albin\\OneDrive\\\u00C1rea de Trabalho\\ManagmentSystem - C\u00F3pia\\EmployeManagmentSystem_Demon\\Client\\Pages\\OtherPages\\VacationPages\\VacationDialog.razor",
+              "RelativeDocumentMoniker": "Client\\Pages\\OtherPages\\VacationPages\\VacationDialog.razor",
+              "ToolTip": "C:\\Users\\albin\\OneDrive\\\u00C1rea de Trabalho\\ManagmentSystem - C\u00F3pia\\EmployeManagmentSystem_Demon\\Client\\Pages\\OtherPages\\VacationPages\\VacationDialog.razor",
+              "RelativeToolTip": "Client\\Pages\\OtherPages\\VacationPages\\VacationDialog.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T00:25:45.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\albin\\OneDrive\\\u00C1rea de Trabalho\\ManagmentSystem - C\u00F3pia\\EmployeManagmentSystem_Demon\\Server\\appsettings.json",
+              "RelativeDocumentMoniker": "Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\albin\\OneDrive\\\u00C1rea de Trabalho\\ManagmentSystem - C\u00F3pia\\EmployeManagmentSystem_Demon\\Server\\appsettings.json",
+              "RelativeToolTip": "Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-28T00:21:27.351Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

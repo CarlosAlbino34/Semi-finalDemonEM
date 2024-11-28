@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\albin\\OneDrive\\\u00C1rea de Trabalho\\DemonEmployeManagmentSystemSolution - C\u00F3pia (2)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94E71B9D-5DDA-4201-A5F8-E9C952B045D0}|Client\\Client.csproj|c:\\users\\albin\\onedrive\\\u00E1rea de trabalho\\demonemployemanagmentsystemsolution - c\u00F3pia (2)\\client\\pages\\otherpages\\sanctionpages\\sanctiondialog.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94E71B9D-5DDA-4201-A5F8-E9C952B045D0}|Client\\Client.csproj|solutionrelative:client\\pages\\otherpages\\sanctionpages\\sanctiondialog.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E71B9D-5DDA-4201-A5F8-E9C952B045D0}|Client\\Client.csproj|c:\\users\\albin\\onedrive\\\u00E1rea de trabalho\\demonemployemanagmentsystemsolution - c\u00F3pia (2)\\client\\pages\\otherpages\\sanctionpages\\sanctionpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94E71B9D-5DDA-4201-A5F8-E9C952B045D0}|Client\\Client.csproj|solutionrelative:client\\pages\\otherpages\\sanctionpages\\sanctionpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E71B9D-5DDA-4201-A5F8-E9C952B045D0}|Client\\Client.csproj|c:\\users\\albin\\onedrive\\\u00E1rea de trabalho\\demonemployemanagmentsystemsolution - c\u00F3pia (2)\\client\\pages\\otherpages\\vacationpages\\vacationpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94E71B9D-5DDA-4201-A5F8-E9C952B045D0}|Client\\Client.csproj|solutionrelative:client\\pages\\otherpages\\vacationpages\\vacationpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E71B9D-5DDA-4201-A5F8-E9C952B045D0}|Client\\Client.csproj|c:\\users\\albin\\onedrive\\\u00E1rea de trabalho\\demonemployemanagmentsystemsolution - c\u00F3pia (2)\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94E71B9D-5DDA-4201-A5F8-E9C952B045D0}|Client\\Client.csproj|solutionrelative:client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E71B9D-5DDA-4201-A5F8-E9C952B045D0}|Client\\Client.csproj|c:\\users\\albin\\onedrive\\\u00E1rea de trabalho\\demonemployemanagmentsystemsolution - c\u00F3pia (2)\\client\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94E71B9D-5DDA-4201-A5F8-E9C952B045D0}|Client\\Client.csproj|solutionrelative:client\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SanctionDialog.razor",
+              "DocumentMoniker": "C:\\Users\\albin\\OneDrive\\\u00C1rea de Trabalho\\DemonEmployeManagmentSystemSolution - C\u00F3pia (2)\\Client\\Pages\\OtherPages\\SanctionPages\\SanctionDialog.razor",
+              "RelativeDocumentMoniker": "Client\\Pages\\OtherPages\\SanctionPages\\SanctionDialog.razor",
+              "ToolTip": "C:\\Users\\albin\\OneDrive\\\u00C1rea de Trabalho\\DemonEmployeManagmentSystemSolution - C\u00F3pia (2)\\Client\\Pages\\OtherPages\\SanctionPages\\SanctionDialog.razor",
+              "RelativeToolTip": "Client\\Pages\\OtherPages\\SanctionPages\\SanctionDialog.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T17:41:26.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SanctionPage.razor",
+              "DocumentMoniker": "C:\\Users\\albin\\OneDrive\\\u00C1rea de Trabalho\\DemonEmployeManagmentSystemSolution - C\u00F3pia (2)\\Client\\Pages\\OtherPages\\SanctionPages\\SanctionPage.razor",
+              "RelativeDocumentMoniker": "Client\\Pages\\OtherPages\\SanctionPages\\SanctionPage.razor",
+              "ToolTip": "C:\\Users\\albin\\OneDrive\\\u00C1rea de Trabalho\\DemonEmployeManagmentSystemSolution - C\u00F3pia (2)\\Client\\Pages\\OtherPages\\SanctionPages\\SanctionPage.razor",
+              "RelativeToolTip": "Client\\Pages\\OtherPages\\SanctionPages\\SanctionPage.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T17:41:09.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VacationPage.razor",
+              "DocumentMoniker": "C:\\Users\\albin\\OneDrive\\\u00C1rea de Trabalho\\DemonEmployeManagmentSystemSolution - C\u00F3pia (2)\\Client\\Pages\\OtherPages\\VacationPages\\VacationPage.razor",
+              "RelativeDocumentMoniker": "Client\\Pages\\OtherPages\\VacationPages\\VacationPage.razor",
+              "ToolTip": "C:\\Users\\albin\\OneDrive\\\u00C1rea de Trabalho\\DemonEmployeManagmentSystemSolution - C\u00F3pia (2)\\Client\\Pages\\OtherPages\\VacationPages\\VacationPage.razor",
+              "RelativeToolTip": "Client\\Pages\\OtherPages\\VacationPages\\VacationPage.razor",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwBQAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T17:31:46.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\albin\\OneDrive\\\u00C1rea de Trabalho\\DemonEmployeManagmentSystemSolution - C\u00F3pia (2)\\Client\\Program.cs",
+              "RelativeDocumentMoniker": "Client\\Program.cs",
+              "ToolTip": "C:\\Users\\albin\\OneDrive\\\u00C1rea de Trabalho\\DemonEmployeManagmentSystemSolution - C\u00F3pia (2)\\Client\\Program.cs",
+              "RelativeToolTip": "Client\\Program.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T17:15:59.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\albin\\OneDrive\\\u00C1rea de Trabalho\\DemonEmployeManagmentSystemSolution - C\u00F3pia (2)\\Client\\App.razor",
+              "RelativeDocumentMoniker": "Client\\App.razor",
+              "ToolTip": "C:\\Users\\albin\\OneDrive\\\u00C1rea de Trabalho\\DemonEmployeManagmentSystemSolution - C\u00F3pia (2)\\Client\\App.razor",
+              "RelativeToolTip": "Client\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T17:08:50.267Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

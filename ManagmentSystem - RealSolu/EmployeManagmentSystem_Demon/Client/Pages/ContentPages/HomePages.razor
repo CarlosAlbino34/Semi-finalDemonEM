@@ -1,0 +1,46 @@
+﻿@page "/home/dashboard"
+
+<TableBanner/>
+<GeneralDepartmentPage/>
+<DepartmentPage />
+<BranchPage />
+<CountryPage />
+<CityPage />
+<TownPage />
+<UserPage />
+<DoctorPages />
+<Overtimepage />
+<OvertimeTypePage />
+<SanctionPage />
+<SanctionTypePage />
+<VacationPage />
+<VacationTypePage />
+<EmployeePage />
+<ProfilePage />
+
+@code {
+    [CascadingParameter] public Task<AuthenticationState> AuthenticationState { get; set; }
+    protected async override Task OnInitializedAsync()
+    {
+        await CheckUserAuthentication();
+    }
+    private async Task CheckUserAuthentication()
+    {
+       /* var user = (await AuthenticationState).User;
+        bool isUserAuthenticated = user.Identity!.IsAuthenticated;
+        if (!isUserAuthenticated)
+            NavManager.NavigateTo("/identity/account/login"); */
+
+        var authState = await AuthenticationState;
+        var user = authState?.User;
+        // Verifique se o usuário e a identidade não são nulos antes de acessar IsAuthenticated
+        bool isUserAuthenticated = user?.Identity?.IsAuthenticated == true;
+
+        if (!isUserAuthenticated)
+        {
+            NavManager.NavigateTo("/identity/account/login");
+        }
+    }
+}
+
+

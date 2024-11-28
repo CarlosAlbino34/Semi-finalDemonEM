@@ -1,0 +1,64 @@
+C:\Users\albin\OneDrive\Área de Trabalho\DESKTOP\PROGRAMAÇÃO\c#_projects\DemonEmployeManagmentSystemSolution\BaseLibrary\bin\Debug\net8.0\BaseLibrary.deps.json
+C:\Users\albin\OneDrive\Área de Trabalho\DESKTOP\PROGRAMAÇÃO\c#_projects\DemonEmployeManagmentSystemSolution\BaseLibrary\bin\Debug\net8.0\BaseLibrary.dll
+C:\Users\albin\OneDrive\Área de Trabalho\DESKTOP\PROGRAMAÇÃO\c#_projects\DemonEmployeManagmentSystemSolution\BaseLibrary\bin\Debug\net8.0\BaseLibrary.pdb
+C:\Users\albin\OneDrive\Área de Trabalho\DESKTOP\PROGRAMAÇÃO\c#_projects\DemonEmployeManagmentSystemSolution\BaseLibrary\obj\Debug\net8.0\BaseLibrary.csproj.AssemblyReference.cache
+C:\Users\albin\OneDrive\Área de Trabalho\DESKTOP\PROGRAMAÇÃO\c#_projects\DemonEmployeManagmentSystemSolution\BaseLibrary\obj\Debug\net8.0\BaseLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\albin\OneDrive\Área de Trabalho\DESKTOP\PROGRAMAÇÃO\c#_projects\DemonEmployeManagmentSystemSolution\BaseLibrary\obj\Debug\net8.0\BaseLibrary.AssemblyInfoInputs.cache
+C:\Users\albin\OneDrive\Área de Trabalho\DESKTOP\PROGRAMAÇÃO\c#_projects\DemonEmployeManagmentSystemSolution\BaseLibrary\obj\Debug\net8.0\BaseLibrary.AssemblyInfo.cs
+C:\Users\albin\OneDrive\Área de Trabalho\DESKTOP\PROGRAMAÇÃO\c#_projects\DemonEmployeManagmentSystemSolution\BaseLibrary\obj\Debug\net8.0\BaseLibrary.csproj.CoreCompileInputs.cache
+C:\Users\albin\OneDrive\Área de Trabalho\DESKTOP\PROGRAMAÇÃO\c#_projects\DemonEmployeManagmentSystemSolution\BaseLibrary\obj\Debug\net8.0\BaseLibrary.dll
+C:\Users\albin\OneDrive\Área de Trabalho\DESKTOP\PROGRAMAÇÃO\c#_projects\DemonEmployeManagmentSystemSolution\BaseLibrary\obj\Debug\net8.0\refint\BaseLibrary.dll
+C:\Users\albin\OneDrive\Área de Trabalho\DESKTOP\PROGRAMAÇÃO\c#_projects\DemonEmployeManagmentSystemSolution\BaseLibrary\obj\Debug\net8.0\BaseLibrary.pdb
+C:\Users\albin\OneDrive\Área de Trabalho\DESKTOP\PROGRAMAÇÃO\c#_projects\DemonEmployeManagmentSystemSolution\BaseLibrary\obj\Debug\net8.0\ref\BaseLibrary.dll
+C:\Users\albin\OneDrive\Área de Trabalho\DESKTOP\PROGRAMAÇÃO\c#_projects\DemonEmployeManagmentSystemSolution - Cópia (2)\BaseLibrary\bin\Debug\net8.0\BaseLibrary.deps.json
+C:\Users\albin\OneDrive\Área de Trabalho\DESKTOP\PROGRAMAÇÃO\c#_projects\DemonEmployeManagmentSystemSolution - Cópia (2)\BaseLibrary\bin\Debug\net8.0\BaseLibrary.dll
+C:\Users\albin\OneDrive\Área de Trabalho\DESKTOP\PROGRAMAÇÃO\c#_projects\DemonEmployeManagmentSystemSolution - Cópia (2)\BaseLibrary\bin\Debug\net8.0\BaseLibrary.pdb
+C:\Users\albin\OneDrive\Área de Trabalho\DESKTOP\PROGRAMAÇÃO\c#_projects\DemonEmployeManagmentSystemSolution - Cópia (2)\BaseLibrary\obj\Debug\net8.0\BaseLibrary.csproj.AssemblyReference.cache
+C:\Users\albin\OneDrive\Área de Trabalho\DESKTOP\PROGRAMAÇÃO\c#_projects\DemonEmployeManagmentSystemSolution - Cópia (2)\BaseLibrary\obj\Debug\net8.0\BaseLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\albin\OneDrive\Área de Trabalho\DESKTOP\PROGRAMAÇÃO\c#_projects\DemonEmployeManagmentSystemSolution - Cópia (2)\BaseLibrary\obj\Debug\net8.0\BaseLibrary.AssemblyInfoInputs.cache
+C:\Users\albin\OneDrive\Área de Trabalho\DESKTOP\PROGRAMAÇÃO\c#_projects\DemonEmployeManagmentSystemSolution - Cópia (2)\BaseLibrary\obj\Debug\net8.0\BaseLibrary.AssemblyInfo.cs
+C:\Users\albin\OneDrive\Área de Trabalho\DESKTOP\PROGRAMAÇÃO\c#_projects\DemonEmployeManagmentSystemSolution - Cópia (2)\BaseLibrary\obj\Debug\net8.0\BaseLibrary.csproj.CoreCompileInputs.cache
+C:\Users\albin\OneDrive\Área de Trabalho\DESKTOP\PROGRAMAÇÃO\c#_projects\DemonEmployeManagmentSystemSolution - Cópia (2)\BaseLibrary\obj\Debug\net8.0\BaseLibrary.sourcelink.json
+C:\Users\albin\OneDrive\Área de Trabalho\DESKTOP\PROGRAMAÇÃO\c#_projects\DemonEmployeManagmentSystemSolution - Cópia (2)\BaseLibrary\obj\Debug\net8.0\BaseLibrary.dll
+C:\Users\albin\OneDrive\Área de Trabalho\DESKTOP\PROGRAMAÇÃO\c#_projects\DemonEmployeManagmentSystemSolution - Cópia (2)\BaseLibrary\obj\Debug\net8.0\refint\BaseLibrary.dll
+C:\Users\albin\OneDrive\Área de Trabalho\DESKTOP\PROGRAMAÇÃO\c#_projects\DemonEmployeManagmentSystemSolution - Cópia (2)\BaseLibrary\obj\Debug\net8.0\BaseLibrary.pdb
+C:\Users\albin\OneDrive\Área de Trabalho\DESKTOP\PROGRAMAÇÃO\c#_projects\DemonEmployeManagmentSystemSolution - Cópia (2)\BaseLibrary\obj\Debug\net8.0\ref\BaseLibrary.dll
+C:\Users\albin\OneDrive\Área de Trabalho\DemonEmployeManagmentSystemSolution - Cópia (2)\BaseLibrary\bin\Debug\net8.0\BaseLibrary.deps.json
+C:\Users\albin\OneDrive\Área de Trabalho\DemonEmployeManagmentSystemSolution - Cópia (2)\BaseLibrary\bin\Debug\net8.0\BaseLibrary.dll
+C:\Users\albin\OneDrive\Área de Trabalho\DemonEmployeManagmentSystemSolution - Cópia (2)\BaseLibrary\bin\Debug\net8.0\BaseLibrary.pdb
+C:\Users\albin\OneDrive\Área de Trabalho\DemonEmployeManagmentSystemSolution - Cópia (2)\BaseLibrary\obj\Debug\net8.0\BaseLibrary.csproj.AssemblyReference.cache
+C:\Users\albin\OneDrive\Área de Trabalho\DemonEmployeManagmentSystemSolution - Cópia (2)\BaseLibrary\obj\Debug\net8.0\BaseLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\albin\OneDrive\Área de Trabalho\DemonEmployeManagmentSystemSolution - Cópia (2)\BaseLibrary\obj\Debug\net8.0\BaseLibrary.AssemblyInfoInputs.cache
+C:\Users\albin\OneDrive\Área de Trabalho\DemonEmployeManagmentSystemSolution - Cópia (2)\BaseLibrary\obj\Debug\net8.0\BaseLibrary.AssemblyInfo.cs
+C:\Users\albin\OneDrive\Área de Trabalho\DemonEmployeManagmentSystemSolution - Cópia (2)\BaseLibrary\obj\Debug\net8.0\BaseLibrary.csproj.CoreCompileInputs.cache
+C:\Users\albin\OneDrive\Área de Trabalho\DemonEmployeManagmentSystemSolution - Cópia (2)\BaseLibrary\obj\Debug\net8.0\BaseLibrary.sourcelink.json
+C:\Users\albin\OneDrive\Área de Trabalho\DemonEmployeManagmentSystemSolution - Cópia (2)\BaseLibrary\obj\Debug\net8.0\BaseLibrary.dll
+C:\Users\albin\OneDrive\Área de Trabalho\DemonEmployeManagmentSystemSolution - Cópia (2)\BaseLibrary\obj\Debug\net8.0\refint\BaseLibrary.dll
+C:\Users\albin\OneDrive\Área de Trabalho\DemonEmployeManagmentSystemSolution - Cópia (2)\BaseLibrary\obj\Debug\net8.0\BaseLibrary.pdb
+C:\Users\albin\OneDrive\Área de Trabalho\DemonEmployeManagmentSystemSolution - Cópia (2)\BaseLibrary\obj\Debug\net8.0\ref\BaseLibrary.dll
+C:\Users\albin\OneDrive\Área de Trabalho\EmployeManagmentSystem_Demon\BaseLibrary\bin\Debug\net8.0\BaseLibrary.deps.json
+C:\Users\albin\OneDrive\Área de Trabalho\EmployeManagmentSystem_Demon\BaseLibrary\bin\Debug\net8.0\BaseLibrary.dll
+C:\Users\albin\OneDrive\Área de Trabalho\EmployeManagmentSystem_Demon\BaseLibrary\bin\Debug\net8.0\BaseLibrary.pdb
+C:\Users\albin\OneDrive\Área de Trabalho\EmployeManagmentSystem_Demon\BaseLibrary\obj\Debug\net8.0\BaseLibrary.csproj.AssemblyReference.cache
+C:\Users\albin\OneDrive\Área de Trabalho\EmployeManagmentSystem_Demon\BaseLibrary\obj\Debug\net8.0\BaseLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\albin\OneDrive\Área de Trabalho\EmployeManagmentSystem_Demon\BaseLibrary\obj\Debug\net8.0\BaseLibrary.AssemblyInfoInputs.cache
+C:\Users\albin\OneDrive\Área de Trabalho\EmployeManagmentSystem_Demon\BaseLibrary\obj\Debug\net8.0\BaseLibrary.AssemblyInfo.cs
+C:\Users\albin\OneDrive\Área de Trabalho\EmployeManagmentSystem_Demon\BaseLibrary\obj\Debug\net8.0\BaseLibrary.csproj.CoreCompileInputs.cache
+C:\Users\albin\OneDrive\Área de Trabalho\EmployeManagmentSystem_Demon\BaseLibrary\obj\Debug\net8.0\BaseLibrary.sourcelink.json
+C:\Users\albin\OneDrive\Área de Trabalho\EmployeManagmentSystem_Demon\BaseLibrary\obj\Debug\net8.0\BaseLibrary.dll
+C:\Users\albin\OneDrive\Área de Trabalho\EmployeManagmentSystem_Demon\BaseLibrary\obj\Debug\net8.0\refint\BaseLibrary.dll
+C:\Users\albin\OneDrive\Área de Trabalho\EmployeManagmentSystem_Demon\BaseLibrary\obj\Debug\net8.0\BaseLibrary.pdb
+C:\Users\albin\OneDrive\Área de Trabalho\EmployeManagmentSystem_Demon\BaseLibrary\obj\Debug\net8.0\ref\BaseLibrary.dll
+C:\Users\albin\OneDrive\Área de Trabalho\ManagmentSystem - Cópia\EmployeManagmentSystem_Demon\BaseLibrary\bin\Debug\net8.0\BaseLibrary.deps.json
+C:\Users\albin\OneDrive\Área de Trabalho\ManagmentSystem - Cópia\EmployeManagmentSystem_Demon\BaseLibrary\bin\Debug\net8.0\BaseLibrary.dll
+C:\Users\albin\OneDrive\Área de Trabalho\ManagmentSystem - Cópia\EmployeManagmentSystem_Demon\BaseLibrary\bin\Debug\net8.0\BaseLibrary.pdb
+C:\Users\albin\OneDrive\Área de Trabalho\ManagmentSystem - Cópia\EmployeManagmentSystem_Demon\BaseLibrary\obj\Debug\net8.0\BaseLibrary.csproj.AssemblyReference.cache
+C:\Users\albin\OneDrive\Área de Trabalho\ManagmentSystem - Cópia\EmployeManagmentSystem_Demon\BaseLibrary\obj\Debug\net8.0\BaseLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\albin\OneDrive\Área de Trabalho\ManagmentSystem - Cópia\EmployeManagmentSystem_Demon\BaseLibrary\obj\Debug\net8.0\BaseLibrary.AssemblyInfoInputs.cache
+C:\Users\albin\OneDrive\Área de Trabalho\ManagmentSystem - Cópia\EmployeManagmentSystem_Demon\BaseLibrary\obj\Debug\net8.0\BaseLibrary.AssemblyInfo.cs
+C:\Users\albin\OneDrive\Área de Trabalho\ManagmentSystem - Cópia\EmployeManagmentSystem_Demon\BaseLibrary\obj\Debug\net8.0\BaseLibrary.csproj.CoreCompileInputs.cache
+C:\Users\albin\OneDrive\Área de Trabalho\ManagmentSystem - Cópia\EmployeManagmentSystem_Demon\BaseLibrary\obj\Debug\net8.0\BaseLibrary.sourcelink.json
+C:\Users\albin\OneDrive\Área de Trabalho\ManagmentSystem - Cópia\EmployeManagmentSystem_Demon\BaseLibrary\obj\Debug\net8.0\BaseLibrary.dll
+C:\Users\albin\OneDrive\Área de Trabalho\ManagmentSystem - Cópia\EmployeManagmentSystem_Demon\BaseLibrary\obj\Debug\net8.0\refint\BaseLibrary.dll
+C:\Users\albin\OneDrive\Área de Trabalho\ManagmentSystem - Cópia\EmployeManagmentSystem_Demon\BaseLibrary\obj\Debug\net8.0\BaseLibrary.pdb
+C:\Users\albin\OneDrive\Área de Trabalho\ManagmentSystem - Cópia\EmployeManagmentSystem_Demon\BaseLibrary\obj\Debug\net8.0\ref\BaseLibrary.dll

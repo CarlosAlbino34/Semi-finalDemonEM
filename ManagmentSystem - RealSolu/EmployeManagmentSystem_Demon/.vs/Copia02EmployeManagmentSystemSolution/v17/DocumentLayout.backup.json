@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\albin\\OneDrive\\\u00C1rea de Trabalho\\EmployeManagmentSystem_Demon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94E71B9D-5DDA-4201-A5F8-E9C952B045D0}|Client\\Client.csproj|c:\\users\\albin\\onedrive\\\u00E1rea de trabalho\\employemanagmentsystem_demon\\client\\pages\\contentpages\\employeepages\\employeepage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94E71B9D-5DDA-4201-A5F8-E9C952B045D0}|Client\\Client.csproj|solutionrelative:client\\pages\\contentpages\\employeepages\\employeepage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8470B0-79F4-4807-8111-32E16A299C32}|ClientLibrary\\ClientLibrary.csproj|c:\\users\\albin\\onedrive\\\u00E1rea de trabalho\\employemanagmentsystem_demon\\clientlibrary\\services\\implementations\\genericserviceimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB8470B0-79F4-4807-8111-32E16A299C32}|ClientLibrary\\ClientLibrary.csproj|solutionrelative:clientlibrary\\services\\implementations\\genericserviceimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E71B9D-5DDA-4201-A5F8-E9C952B045D0}|Client\\Client.csproj|c:\\users\\albin\\onedrive\\\u00E1rea de trabalho\\employemanagmentsystem_demon\\client\\pages\\otherpages\\sanctionpages\\sanctionpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94E71B9D-5DDA-4201-A5F8-E9C952B045D0}|Client\\Client.csproj|solutionrelative:client\\pages\\otherpages\\sanctionpages\\sanctionpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E71B9D-5DDA-4201-A5F8-E9C952B045D0}|Client\\Client.csproj|c:\\users\\albin\\onedrive\\\u00E1rea de trabalho\\employemanagmentsystem_demon\\client\\pages\\contentpages\\locationspage\\townpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94E71B9D-5DDA-4201-A5F8-E9C952B045D0}|Client\\Client.csproj|solutionrelative:client\\pages\\contentpages\\locationspage\\townpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E71B9D-5DDA-4201-A5F8-E9C952B045D0}|Client\\Client.csproj|c:\\users\\albin\\onedrive\\\u00E1rea de trabalho\\employemanagmentsystem_demon\\client\\pages\\otherpages\\tablebanner.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94E71B9D-5DDA-4201-A5F8-E9C952B045D0}|Client\\Client.csproj|solutionrelative:client\\pages\\otherpages\\tablebanner.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E71B9D-5DDA-4201-A5F8-E9C952B045D0}|Client\\Client.csproj|c:\\users\\albin\\onedrive\\\u00E1rea de trabalho\\employemanagmentsystem_demon\\client\\pages\\contentpages\\departmentpages\\departmentpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94E71B9D-5DDA-4201-A5F8-E9C952B045D0}|Client\\Client.csproj|solutionrelative:client\\pages\\contentpages\\departmentpages\\departmentpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E71B9D-5DDA-4201-A5F8-E9C952B045D0}|Client\\Client.csproj|c:\\users\\albin\\onedrive\\\u00E1rea de trabalho\\employemanagmentsystem_demon\\client\\pages\\otherpages\\healthpages\\doctorpages.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94E71B9D-5DDA-4201-A5F8-E9C952B045D0}|Client\\Client.csproj|solutionrelative:client\\pages\\otherpages\\healthpages\\doctorpages.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8470B0-79F4-4807-8111-32E16A299C32}|ClientLibrary\\ClientLibrary.csproj|c:\\users\\albin\\onedrive\\\u00E1rea de trabalho\\employemanagmentsystem_demon\\clientlibrary\\helpers\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB8470B0-79F4-4807-8111-32E16A299C32}|ClientLibrary\\ClientLibrary.csproj|solutionrelative:clientlibrary\\helpers\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{158B06E6-3BAF-4B85-B973-1CF21F45CE1E}|ServerLibrary\\ServerLibrary.csproj|c:\\users\\albin\\onedrive\\\u00E1rea de trabalho\\employemanagmentsystem_demon\\serverlibrary\\repositories\\implementations\\useraccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{158B06E6-3BAF-4B85-B973-1CF21F45CE1E}|ServerLibrary\\ServerLibrary.csproj|solutionrelative:serverlibrary\\repositories\\implementations\\useraccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E71B9D-5DDA-4201-A5F8-E9C952B045D0}|Client\\Client.csproj|c:\\users\\albin\\onedrive\\\u00E1rea de trabalho\\employemanagmentsystem_demon\\client\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94E71B9D-5DDA-4201-A5F8-E9C952B045D0}|Client\\Client.csproj|solutionrelative:client\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E71B9D-5DDA-4201-A5F8-E9C952B045D0}|Client\\Client.csproj|c:\\users\\albin\\onedrive\\\u00E1rea de trabalho\\employemanagmentsystem_demon\\client\\pages\\otherpages\\vacationpages\\vacationdialog.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94E71B9D-5DDA-4201-A5F8-E9C952B045D0}|Client\\Client.csproj|solutionrelative:client\\pages\\otherpages\\vacationpages\\vacationdialog.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SanctionPage.razor",
+              "DocumentMoniker": "C:\\Users\\albin\\OneDrive\\\u00C1rea de Trabalho\\EmployeManagmentSystem_Demon\\Client\\Pages\\OtherPages\\SanctionPages\\SanctionPage.razor",
+              "RelativeDocumentMoniker": "Client\\Pages\\OtherPages\\SanctionPages\\SanctionPage.razor",
+              "ToolTip": "C:\\Users\\albin\\OneDrive\\\u00C1rea de Trabalho\\EmployeManagmentSystem_Demon\\Client\\Pages\\OtherPages\\SanctionPages\\SanctionPage.razor",
+              "RelativeToolTip": "Client\\Pages\\OtherPages\\SanctionPages\\SanctionPage.razor",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAFQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T21:20:31.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DepartmentPage.razor",
+              "DocumentMoniker": "C:\\Users\\albin\\OneDrive\\\u00C1rea de Trabalho\\EmployeManagmentSystem_Demon\\Client\\Pages\\ContentPages\\DepartmentPages\\DepartmentPage.razor",
+              "RelativeDocumentMoniker": "Client\\Pages\\ContentPages\\DepartmentPages\\DepartmentPage.razor",
+              "ToolTip": "C:\\Users\\albin\\OneDrive\\\u00C1rea de Trabalho\\EmployeManagmentSystem_Demon\\Client\\Pages\\ContentPages\\DepartmentPages\\DepartmentPage.razor",
+              "RelativeToolTip": "Client\\Pages\\ContentPages\\DepartmentPages\\DepartmentPage.razor",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAFAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T21:19:44.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeePage.razor",
+              "DocumentMoniker": "C:\\Users\\albin\\OneDrive\\\u00C1rea de Trabalho\\EmployeManagmentSystem_Demon\\Client\\Pages\\ContentPages\\EmployeePages\\EmployeePage.razor",
+              "RelativeDocumentMoniker": "Client\\Pages\\ContentPages\\EmployeePages\\EmployeePage.razor",
+              "ToolTip": "C:\\Users\\albin\\OneDrive\\\u00C1rea de Trabalho\\EmployeManagmentSystem_Demon\\Client\\Pages\\ContentPages\\EmployeePages\\EmployeePage.razor",
+              "RelativeToolTip": "Client\\Pages\\ContentPages\\EmployeePages\\EmployeePage.razor",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAH0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T08:28:30.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TableBanner.razor",
+              "DocumentMoniker": "C:\\Users\\albin\\OneDrive\\\u00C1rea de Trabalho\\EmployeManagmentSystem_Demon\\Client\\Pages\\OtherPages\\TableBanner.razor",
+              "RelativeDocumentMoniker": "Client\\Pages\\OtherPages\\TableBanner.razor",
+              "ToolTip": "C:\\Users\\albin\\OneDrive\\\u00C1rea de Trabalho\\EmployeManagmentSystem_Demon\\Client\\Pages\\OtherPages\\TableBanner.razor",
+              "RelativeToolTip": "Client\\Pages\\OtherPages\\TableBanner.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T20:50:13.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "C:\\Users\\albin\\OneDrive\\\u00C1rea de Trabalho\\EmployeManagmentSystem_Demon\\ClientLibrary\\Helpers\\Constants.cs",
+              "RelativeDocumentMoniker": "ClientLibrary\\Helpers\\Constants.cs",
+              "ToolTip": "C:\\Users\\albin\\OneDrive\\\u00C1rea de Trabalho\\EmployeManagmentSystem_Demon\\ClientLibrary\\Helpers\\Constants.cs",
+              "RelativeToolTip": "ClientLibrary\\Helpers\\Constants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T20:07:12.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TownPage.razor",
+              "DocumentMoniker": "C:\\Users\\albin\\OneDrive\\\u00C1rea de Trabalho\\EmployeManagmentSystem_Demon\\Client\\Pages\\ContentPages\\LocationsPage\\TownPage.razor",
+              "RelativeDocumentMoniker": "Client\\Pages\\ContentPages\\LocationsPage\\TownPage.razor",
+              "ToolTip": "C:\\Users\\albin\\OneDrive\\\u00C1rea de Trabalho\\EmployeManagmentSystem_Demon\\Client\\Pages\\ContentPages\\LocationsPage\\TownPage.razor",
+              "RelativeToolTip": "Client\\Pages\\ContentPages\\LocationsPage\\TownPage.razor",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAFQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T20:06:16.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DoctorPages.razor",
+              "DocumentMoniker": "C:\\Users\\albin\\OneDrive\\\u00C1rea de Trabalho\\EmployeManagmentSystem_Demon\\Client\\Pages\\OtherPages\\HealthPages\\DoctorPages.razor",
+              "RelativeDocumentMoniker": "Client\\Pages\\OtherPages\\HealthPages\\DoctorPages.razor",
+              "ToolTip": "C:\\Users\\albin\\OneDrive\\\u00C1rea de Trabalho\\EmployeManagmentSystem_Demon\\Client\\Pages\\OtherPages\\HealthPages\\DoctorPages.razor",
+              "RelativeToolTip": "Client\\Pages\\OtherPages\\HealthPages\\DoctorPages.razor",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAE8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T20:02:22.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserAccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\albin\\OneDrive\\\u00C1rea de Trabalho\\EmployeManagmentSystem_Demon\\ServerLibrary\\Repositories\\Implementations\\UserAccountRepository.cs",
+              "RelativeDocumentMoniker": "ServerLibrary\\Repositories\\Implementations\\UserAccountRepository.cs",
+              "ToolTip": "C:\\Users\\albin\\OneDrive\\\u00C1rea de Trabalho\\EmployeManagmentSystem_Demon\\ServerLibrary\\Repositories\\Implementations\\UserAccountRepository.cs",
+              "RelativeToolTip": "ServerLibrary\\Repositories\\Implementations\\UserAccountRepository.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA+wEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T06:19:52.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\albin\\OneDrive\\\u00C1rea de Trabalho\\EmployeManagmentSystem_Demon\\Client\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Client\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\albin\\OneDrive\\\u00C1rea de Trabalho\\EmployeManagmentSystem_Demon\\Client\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Client\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T01:45:06.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GenericServiceImplementation.cs",
+              "DocumentMoniker": "C:\\Users\\albin\\OneDrive\\\u00C1rea de Trabalho\\EmployeManagmentSystem_Demon\\ClientLibrary\\Services\\Implementations\\GenericServiceImplementation.cs",
+              "RelativeDocumentMoniker": "ClientLibrary\\Services\\Implementations\\GenericServiceImplementation.cs",
+              "ToolTip": "C:\\Users\\albin\\OneDrive\\\u00C1rea de Trabalho\\EmployeManagmentSystem_Demon\\ClientLibrary\\Services\\Implementations\\GenericServiceImplementation.cs",
+              "RelativeToolTip": "ClientLibrary\\Services\\Implementations\\GenericServiceImplementation.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T01:33:21.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "VacationDialog.razor",
+              "DocumentMoniker": "C:\\Users\\albin\\OneDrive\\\u00C1rea de Trabalho\\EmployeManagmentSystem_Demon\\Client\\Pages\\OtherPages\\VacationPages\\VacationDialog.razor",
+              "RelativeDocumentMoniker": "Client\\Pages\\OtherPages\\VacationPages\\VacationDialog.razor",
+              "ToolTip": "C:\\Users\\albin\\OneDrive\\\u00C1rea de Trabalho\\EmployeManagmentSystem_Demon\\Client\\Pages\\OtherPages\\VacationPages\\VacationDialog.razor",
+              "RelativeToolTip": "Client\\Pages\\OtherPages\\VacationPages\\VacationDialog.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T14:53:00.654Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
